@@ -1,0 +1,2 @@
+FROM curl
+RUN apt
